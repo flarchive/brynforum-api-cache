@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of brynforum/api-cache.** Not for installation: use [Packagist](https://packagist.org/packages/brynforum/api-cache) or the [upstream repository](https://github.com/BrynForum/flarum-ext-api-cache).
 
-**0** versions archived · Latest: [`v0.1.0`](https://github.com/flarchive/brynforum-api-cache/tree/archive/v0.1.0) · License: `MIT` · Flarum: `^1.8.0`
+**1** versions archived · Latest: [`v0.1.0`](https://github.com/flarchive/brynforum-api-cache/tree/archive/v0.1.0) · License: `MIT` · Flarum: `^1.8.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1.0` | 2026-05-16 | `^1.8.0` | [Browse](https://github.com/flarchive/brynforum-api-cache/tree/archive/v0.1.0) |
 
 Catalog entry: [packages/brynforum-api-cache.json](https://github.com/flarchive/archive-index/blob/main/packages/brynforum-api-cache.json)
 
